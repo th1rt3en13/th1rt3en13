@@ -2,6 +2,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/th1rt3en.png" alt="TryHackMe">
 
-[Codewars](https://www.codewars.com/users/livpasc13)
+
 
 
