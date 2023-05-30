@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Python</strong>
-</p>
-
-<p align="left">
   💼 <strong>Fun fact, I love to mix art and tech</strong>
 </p>
 
