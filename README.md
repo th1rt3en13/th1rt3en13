@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Lívian Pascoal 🦄</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="30px">, I'm Lívian Pascoal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th1rt3en13&color=red" alt="Profile views" /> </p>
 
 - 🔥 Studying Information Systems (bachelor's degree)
