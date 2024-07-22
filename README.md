@@ -8,7 +8,7 @@
 - ⚡ Fun fact, **I love to mix art and tech**
 
 - 👩‍💻 More at [art portfolio](https://livianpascoal.wixsite.com/portfolio)
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
